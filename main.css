@@ -106,3 +106,20 @@ section h2 {
     background-color: #ff9f1a;
 }
 
+#entertainment {
+    background-color: rgba(rgba(245, 40, 145, 0.1);
+}
+
+#entertainment .articles article a {
+    background-color: rgba(rgba(245, 40, 145, 0.8));
+    color: #000
+}
+
+#tech {
+    background-color: rgba(rgba(116, 124, 216, 0.1));
+}
+
+#tech .articles article a {
+    background-color: rgba(rgba(116, 124, 216, 0.8);
+    color: #000;
+}
