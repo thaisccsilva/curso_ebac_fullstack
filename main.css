@@ -31,6 +31,7 @@ button {
     font-style: italic;
     cursor: pointer;
 }
+
 .mensagem01,
 .mensagem02,
 .mensagem03,
@@ -38,5 +39,6 @@ button {
     background-color: #a80065;
     padding: 16px;
     color: #fff;
+    display: none;
 }
 
